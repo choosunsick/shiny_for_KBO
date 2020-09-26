@@ -1,2 +1,9 @@
+# History files
+.Rhistory
+.Rapp.history
 
+# Session Data files
+.RData
+
+# RStudio files
 shiny_app.Rproj
